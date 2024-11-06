@@ -11,3 +11,5 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
 
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
+
+alert("Oh, funge?")
