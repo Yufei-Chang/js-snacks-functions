@@ -5,6 +5,15 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Laura", "Alessandra"];
 
 // Dichiara la funzione qui.
 
+const result = [];
+
+for (let i = 0; i < array.length; i++) {
+    let curItem = array[i];
+    if (letter === curItem[0]){
+        result.push(curItem);
+    }
+}
+return result
 
 // Invoca la funzione qui e stampa il risultato in console
 
